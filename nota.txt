@@ -1,0 +1,2 @@
+Quiero fusionar las rama
+Vamos a generar un conflicto
